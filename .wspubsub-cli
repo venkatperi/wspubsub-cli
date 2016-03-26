@@ -1,0 +1,8 @@
+{
+  "wspubsub": {
+    "port": 10017,
+    "host": "localhost",
+    "path": "/",
+    "url" : "ws://localhost:10017/"
+  }
+}
