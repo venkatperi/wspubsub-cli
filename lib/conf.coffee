@@ -1,11 +1,6 @@
-Conf = require 'node-conf'
+honf = require 'hconf'
 
-opts =
-  name : "wspubsub-cli"
-  dirs :
-    "factory" : "#{__dirname}/.."
-
-conf = Conf( opts )
+hconf module : module
 
 module.exports = conf
 

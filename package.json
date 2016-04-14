@@ -4,7 +4,7 @@
   "preferGlobal": false,
   "description": "CLI for wspubsub",
   "dependencies": {
-    "nconf": "^0.7.1",
+    "hconf": "^0.2.1",
     "nomnom": "^1.8.1",
     "q": "^1.4.1"
   },
