@@ -4,5 +4,11 @@
     "host": "localhost",
     "path": "/",
     "url" : "ws://localhost:10017/"
+  },
+
+  "yandlr" : {
+    "loggers": {
+      "wspubsub" : { "level" : "info" }
+    }
   }
 }
