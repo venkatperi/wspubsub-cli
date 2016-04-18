@@ -1,6 +1,6 @@
 {
   "name": "wspubsub-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "preferGlobal": false,
   "description": "CLI for wspubsub",
   "dependencies": {
