@@ -5,10 +5,13 @@
     "path": "/",
     "url" : "ws://localhost:10017/"
   },
-
-  "yandlr" : {
+  "yandlr": {
     "loggers": {
-      "wspubsub" : { "level" : "info" }
+      "wspubsub-cli": {
+        "console" {
+          "level": "debug"
+        }
+      }
     }
   }
 }

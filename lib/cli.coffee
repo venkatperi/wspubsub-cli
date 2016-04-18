@@ -1,5 +1,5 @@
 parser = require( 'nomnom' )
-WSPubSub = require "node-wspubsub"
+WSPubSub = require "wspubsub"
 Log = require( "yandlr" )( module: module )
 
 quit = ( err, code ) ->
